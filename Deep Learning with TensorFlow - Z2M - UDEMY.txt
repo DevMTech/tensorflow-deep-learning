@@ -1,0 +1,11 @@
+	
+	Zero to Mastery Deep Learning with TensorFlow
+	All course materials for the Zero to Mastery Deep Learning with TensorFlow course.
+	https://github.com/mrdbourke/tensorflow-deep-learning
+	https://dev.mrdbourke.com/tensorflow-deep-learning/
+	https://discord.com/channels/423464391791476747/423466983208779776
+	https://zerotomastery.io/courses/learn-tensorflow/
+	dbourke.link/ztmtfcourse
+	
+	Learn TensorFlow and Deep Learning (beginner friendly code-first introduction)
+	https://www.youtube.com/playlist?list=PL6vjgQ2-qJFfU2vF6-lG9DlSa4tROkzt9
